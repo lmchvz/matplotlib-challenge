@@ -10,3 +10,15 @@ The goal of this project is to analyze the Pymaceuticals' data and to use Matplo
 - Python
 - Pandas Library
 - Matplotlib Library 
+
+### Project Finished Comparisons: 
+
+![(image)](https://github.com/lmchvz/matplotlib-challenge/blob/master/pymaceuticals/01_Tumor_Response_to_Treatment.png)
+
+![(image)](https://github.com/lmchvz/matplotlib-challenge/blob/master/pymaceuticals/02_Metastatic_Spread_During_Treatment.png)
+
+![(image)](https://github.com/lmchvz/matplotlib-challenge/blob/master/pymaceuticals/03_Survival_During_Treatment.png)
+
+![(image)](https://github.com/lmchvz/matplotlib-challenge/blob/master/pymaceuticals/04_Tumor_Change_Over_45Day_Treatment.png)
+
+
